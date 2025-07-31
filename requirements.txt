@@ -1,0 +1,6 @@
+streamlit
+numpy
+opencv-python-headless
+Pillow
+supervision
+git+https://github.com/roboflow/inference.git
